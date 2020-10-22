@@ -6,13 +6,13 @@
 
 - git init
 
-- <creamos el fichero>
+- creamos el fichero
 
 - git add .
 
 - git commit -n "mensajito"
 
-- git remote add origin https//github.com/**RaquelOgando**/misDiagramas.git
+- git remote add origin https//github.com/RaquelOgando/misDiagramas.git
 
 - git push origin master
 
@@ -20,7 +20,7 @@
 
 ## A partir de la segunda vez:
 
-- <creamos el fichero>
+- creamos el fichero
 
 - git add .
 
